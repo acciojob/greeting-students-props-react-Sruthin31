@@ -4,7 +4,7 @@ const Welcome = ({name}) =>{
     return (
         <>
          <h1>Hey {name}!</h1>
-        <p>Welcome to School.</p>
+        <h2>Welcome to School.</h2>
         </>
     )
 
